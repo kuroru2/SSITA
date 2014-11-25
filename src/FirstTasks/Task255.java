@@ -27,7 +27,7 @@ public class Task255 implements Task
 	@Override
 	public ArrayList<Integer> solveProblem()
 	{
-		return null;
+		return null; //return Collections.emptyList();
 		
 	}
 
